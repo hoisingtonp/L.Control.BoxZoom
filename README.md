@@ -22,4 +22,5 @@ Then add the Control to your map:
 # Options
 
 * **position** Any of the usual _position_ flags for a L.Control subclass: _topright_, _topleft_, and so on.
+* **iconClass** Any valid classes for an _icon_ element, especially things like _glyphicon_, _fontawesome_, or _ionicons_.
 
