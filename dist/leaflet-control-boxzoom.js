@@ -1,9 +1,11 @@
 /*
  * L.Control.BoxZoom
  * A visible, clickable control for doing a box zoom.
+ * https://github.com/hoisingtonp/L.Control.BoxZoom
+ *
+ * Forked from:
  * https://github.com/gregallensworth/L.Control.BoxZoom
  *
- * Modified by BITS
  */
 L.Control.BoxZoom = L.Control.extend({
     options: {
