@@ -8,7 +8,7 @@ Live demo: http://gregallensworth.github.io/L.Control.BoxZoom/
 # Installation and Example
 For the impatient, copy-and-paste out of the working example, _index.html_
 
-The _dist/_  folder contains the essentials: a JS file, a CSS file, and a single SVG icon.
+The _dist/_  folder contains the essentials: a JS file and a CSS file.
 
 Simply include the JS and CSS as usual:
 
